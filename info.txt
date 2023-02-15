@@ -1,0 +1,4 @@
+name2: Yuki
+Age2: 26
+food2: Sushi
+city: Osaka

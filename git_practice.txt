@@ -7,3 +7,4 @@ sex: male
 movie: movie A
 book: book 1
 animal: dog
+animal2: cat

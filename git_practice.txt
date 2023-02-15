@@ -1,0 +1,4 @@
+name: Yuki
+age: 26
+food: sushi
+hobby: Travel

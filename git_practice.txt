@@ -4,3 +4,4 @@ food: sushi
 hobby: Travel
 sport: basketball
 sex: male
+movie: movie A

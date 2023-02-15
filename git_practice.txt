@@ -3,3 +3,4 @@ age: 26
 food: sushi
 hobby: Travel
 sport: basketball
+sex: male

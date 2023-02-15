@@ -5,3 +5,4 @@ hobby: Travel
 sport: basketball
 sex: male
 movie: movie A
+book: book 1
